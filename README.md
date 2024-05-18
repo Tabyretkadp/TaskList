@@ -1,4 +1,6 @@
 ![image](https://github.com/Tabyretkadp/TaskList/assets/134435998/222926be-fc6f-492d-8e7c-4a72ca9b90af)
+![image](https://github.com/Tabyretkadp/TaskList/assets/134435998/d86d7cb3-d92b-4366-8a33-f13213b3eb5b)
+
 1) Установите CMake:
 
 Убедитесь, что у вас установлен CMake на вашем компьютере. Если его нет, вы можете загрузить его с официального сайта: https://cmake.org/download/.
